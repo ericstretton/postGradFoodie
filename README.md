@@ -1,4 +1,4 @@
-# foodie
+# foodie frontend
 
 ## Project setup
 ```
